@@ -1,0 +1,29 @@
+{
+  "name": "school_mgmt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.7.0",
+    "formidable": "^3.5.4",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.4",
+    "next": "^15.5.2",
+    "next-connect": "^1.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-hook-form": "^7.62.0",
+    "streamifier": "^0.1.1"
+  }
+}
